@@ -160,6 +160,7 @@ const styles = StyleSheet.create({
   column: {
     flexDirection: "row",
     alignItems: "center",
+
     width: width / 2
   },
   actions: {
